@@ -1,13 +1,12 @@
 ### Hi there 👋
-### Hi there 👋
 
-I'm a cumputer science student, currently looking for an entry-level IT internship I'm motivated to learn fast and become a valuable team member.
+I'm a computer science student, currently looking for an entry-level IT internship. I'm motivated to learn fast and become a valuable team member.
 
 ⬇️ Check my learning projects pinned below.
 
 💬 If you would like to contact me, feel free to send me a e-mail.
 
-- <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">  : grzegorzbandyra@gmail.com
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">  :   grzegorzbandyra@gmail.com
 
 
 ### 🧰 Languages and Tools
@@ -31,10 +30,9 @@ I'm a cumputer science student, currently looking for an entry-level IT internsh
 <div>
   <img src="https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white" title="Adobe Photoshop" alt="Adobe Photoshop"/>&nbsp;
   <img src="https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white" title="WordPress" alt="WordPress"/>&nbsp;
-  <img src="https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi" title="RaspberryPi" alt="RaspberryPi"/>&nbsp;
-  <img src="https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white" title="Trello" alt="Trello"/>&nbsp;
-    <img src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white" title="Notion" alt="Notion"/>
 </div>
+
+
 <!--
 **GBN6/GBN6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
