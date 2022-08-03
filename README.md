@@ -29,7 +29,6 @@ I'm a computer science student, currently looking for an entry-level IT internsh
 
 <div>
   <img src="https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white" title="Adobe Photoshop" alt="Adobe Photoshop"/>&nbsp;
-  <img src="https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white" title="WordPress" alt="WordPress"/>&nbsp;
 </div>
 
 
