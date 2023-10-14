@@ -9,7 +9,7 @@
 
 <a href="mailto:grzegorzbandyra@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height=25></a>
 
-### 🧰 Languages and Tools
+# 🔧 Technologies & Tools
 
 <table>
   <tr>
