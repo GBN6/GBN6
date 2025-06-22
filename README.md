@@ -4,13 +4,21 @@
     My name is Grzegorz and I'm a Junior Frontend developer who loves to work with JavaScript technologies. Right now my mind is focused on learning everything that is related to Web Development. I'm also passionate about exploring new technologies which I can leverage to solve real-life problems.
 </div>
 
-###
-  💬 If you would like to contact me, feel free to send me a e-mail.
+## 🚀 About Me
+- 🌍 Location: Warsaw, Poland  
+- 📫 How to reach me:
+    <a href="mailto:grzegorzbandyra@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height=25></a>
+    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/grzegorz-bandyra-563351295" height=25>
+- 🌱 Learning: Advanced Angular, C# and ASP.NET Core
 
-<a href="mailto:grzegorzbandyra@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height=25></a>
+## 🛠️ Technologies & Tools
 
-# 🔧 Technologies & Tools
+- **Languages**: TypeScript, C#, HTML, SCSS
+- **Frameworks**: Angular, .NET
+- **Tools**: NX, Git, JetBrains IDE
 
+### Below are some projects that I worked on.
+<!--
 <table>
   <tr>
     <td align="center" height="108" width="108">
@@ -108,7 +116,6 @@
   </tr>
 </table>
 
-<!--
 <div>
   <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" title="JavaScript" alt="JavaScript"/>&nbsp;
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" title="CSS" alt="CSS"/>&nbsp;
