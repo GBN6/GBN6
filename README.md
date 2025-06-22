@@ -6,9 +6,9 @@
 
 ## 🚀 About Me
 - 🌍 Location: Warsaw, Poland  
-- 📫 How to reach me:
-    <a href="mailto:grzegorzbandyra@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height=25></a>
-    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/grzegorz-bandyra-563351295" height=25>
+- 📫 How to reach me: 
+    [![Gmail](https://img.shields.io/badge/Gmail--informational?style=social&logo=gmail)](mailto:grzegorzbandyra@gmail.com)
+    [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/grzegorz-bandyra-563351295)
 - 🌱 Learning: Advanced Angular, C# and ASP.NET Core
 
 ## 🛠️ Technologies & Tools
